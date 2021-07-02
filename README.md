@@ -2,7 +2,9 @@
 This is a implementation of a solution for [CloudHumans](https://www.cloudhumans.com)'s backend Take Home Assignment.
 
 # How To Run
-To run this program, just run the ApiProjectApplication class, located [here](https://github.com/Maatty11/CH_TakeHomeAssignment/tree/main/API_Project/src/main/java/com/CloudHumans/API_Project).
+To run this program, run the ApiProjectApplication class, located [here](https://github.com/Maatty11/CH_TakeHomeAssignment/tree/main/API_Project/src/main/java/com/CloudHumans/API_Project).
+
+Access the API at http://localhost:8080/post
 
 # Technical Decisions
 This project is made in [Java](https://www.java.com/pt-BR/), using [springboot](https://spring.io) to create the requested API.
