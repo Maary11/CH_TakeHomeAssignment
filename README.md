@@ -14,4 +14,4 @@ The class ApiProjectApplication executes the API that does the input and output 
 The class Pro, in conjunction with the classes InternetTest and PastExperiences, stores the data recieved through the API and processes them to return the requested JSON object.
 The score of the pro is calculated in a series of in/else statements and is used to define which projects the pro can and cannot participate along with the project that he is allocated to work.
 
-The name of the projects is stored in a ArrayList and is removed from it if the pro is'nt qualified to work on them, being added to the inelegible projects ArrayList.
+The name of the projects is stored in an ArrayList and is removed from it if the pro isn't qualified to work on them, being added to the inelegible projects ArrayList.
