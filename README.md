@@ -9,7 +9,7 @@ Access the API at http://localhost:8080/post
 # Technical Decisions
 This project is made in [Java](https://www.java.com/pt-BR/), using [springboot](https://spring.io) to create the requested API.
 
-The class ApiProjectApplication executes the API does the input and output of the program.
+The class ApiProjectApplication executes the API that does the input and output of the program.
 
 The class Pro, in conjunction with the classes InternetTest and PastExperiences, stores the data recieved through the API and processes them to return the requested JSON object.
 The score of the pro is calculated in a series of in/else statements and is used to define which projects the pro can and cannot participate along with the project that he is allocated to work.
